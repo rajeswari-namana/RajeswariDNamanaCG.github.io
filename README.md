@@ -1,2 +1,0 @@
-# RajeswariDNamanaCG.github.io
-ColorGameProject
